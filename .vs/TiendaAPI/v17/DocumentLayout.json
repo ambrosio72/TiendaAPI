@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Beep Montilla\\Desktop\\Cosas\\GRADO DAW\\Segundo a\u00F1o DAM\\Acceso a datos\\ProyectosTema6\\TiendaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6975E76F-9A25-40B6-B766-F0C9AACCEC17}|TiendaAPI.csproj|c:\\users\\beep montilla\\desktop\\cosas\\grado daw\\segundo a\u00F1o dam\\acceso a datos\\proyectostema6\\tiendaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6975E76F-9A25-40B6-B766-F0C9AACCEC17}|TiendaAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6975E76F-9A25-40B6-B766-F0C9AACCEC17}|TiendaAPI.csproj|c:\\users\\beep montilla\\desktop\\cosas\\grado daw\\segundo a\u00F1o dam\\acceso a datos\\proyectostema6\\tiendaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6975E76F-9A25-40B6-B766-F0C9AACCEC17}|TiendaAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6975E76F-9A25-40B6-B766-F0C9AACCEC17}|TiendaAPI.csproj|c:\\users\\beep montilla\\desktop\\cosas\\grado daw\\segundo a\u00F1o dam\\acceso a datos\\proyectostema6\\tiendaapi\\tiendaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6975E76F-9A25-40B6-B766-F0C9AACCEC17}|TiendaAPI.csproj|solutionrelative:tiendaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6975E76F-9A25-40B6-B766-F0C9AACCEC17}|TiendaAPI.csproj|c:\\users\\beep montilla\\desktop\\cosas\\grado daw\\segundo a\u00F1o dam\\acceso a datos\\proyectostema6\\tiendaapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6975E76F-9A25-40B6-B766-F0C9AACCEC17}|TiendaAPI.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6975E76F-9A25-40B6-B766-F0C9AACCEC17}|TiendaAPI.csproj|c:\\users\\beep montilla\\desktop\\cosas\\grado daw\\segundo a\u00F1o dam\\acceso a datos\\proyectostema6\\tiendaapi\\data\\tiendadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6975E76F-9A25-40B6-B766-F0C9AACCEC17}|TiendaAPI.csproj|solutionrelative:data\\tiendadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6975E76F-9A25-40B6-B766-F0C9AACCEC17}|TiendaAPI.csproj|c:\\users\\beep montilla\\desktop\\cosas\\grado daw\\segundo a\u00F1o dam\\acceso a datos\\proyectostema6\\tiendaapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6975E76F-9A25-40B6-B766-F0C9AACCEC17}|TiendaAPI.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6975E76F-9A25-40B6-B766-F0C9AACCEC17}|TiendaAPI.csproj|c:\\users\\beep montilla\\desktop\\cosas\\grado daw\\segundo a\u00F1o dam\\acceso a datos\\proyectostema6\\tiendaapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6975E76F-9A25-40B6-B766-F0C9AACCEC17}|TiendaAPI.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6975E76F-9A25-40B6-B766-F0C9AACCEC17}|TiendaAPI.csproj|c:\\users\\beep montilla\\desktop\\cosas\\grado daw\\segundo a\u00F1o dam\\acceso a datos\\proyectostema6\\tiendaapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6975E76F-9A25-40B6-B766-F0C9AACCEC17}|TiendaAPI.csproj|solutionrelative:controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a5174402-226b-48da-aa5c-91376ed45871}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TiendaAPI.http",
+              "DocumentMoniker": "C:\\Users\\Beep Montilla\\Desktop\\Cosas\\GRADO DAW\\Segundo a\u00F1o DAM\\Acceso a datos\\ProyectosTema6\\TiendaAPI\\TiendaAPI.http",
+              "RelativeDocumentMoniker": "TiendaAPI.http",
+              "ToolTip": "C:\\Users\\Beep Montilla\\Desktop\\Cosas\\GRADO DAW\\Segundo a\u00F1o DAM\\Acceso a datos\\ProyectosTema6\\TiendaAPI\\TiendaAPI.http",
+              "RelativeToolTip": "TiendaAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-09T13:26:27.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Beep Montilla\\Desktop\\Cosas\\GRADO DAW\\Segundo a\u00F1o DAM\\Acceso a datos\\ProyectosTema6\\TiendaAPI\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Beep Montilla\\Desktop\\Cosas\\GRADO DAW\\Segundo a\u00F1o DAM\\Acceso a datos\\ProyectosTema6\\TiendaAPI\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAgwPEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:48:57.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Beep Montilla\\Desktop\\Cosas\\GRADO DAW\\Segundo a\u00F1o DAM\\Acceso a datos\\ProyectosTema6\\TiendaAPI\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Beep Montilla\\Desktop\\Cosas\\GRADO DAW\\Segundo a\u00F1o DAM\\Acceso a datos\\ProyectosTema6\\TiendaAPI\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:46:28.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Beep Montilla\\Desktop\\Cosas\\GRADO DAW\\Segundo a\u00F1o DAM\\Acceso a datos\\ProyectosTema6\\TiendaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Beep Montilla\\Desktop\\Cosas\\GRADO DAW\\Segundo a\u00F1o DAM\\Acceso a datos\\ProyectosTema6\\TiendaAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:16:25.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Beep Montilla\\Desktop\\Cosas\\GRADO DAW\\Segundo a\u00F1o DAM\\Acceso a datos\\ProyectosTema6\\TiendaAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Beep Montilla\\Desktop\\Cosas\\GRADO DAW\\Segundo a\u00F1o DAM\\Acceso a datos\\ProyectosTema6\\TiendaAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T12:05:02.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TiendaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Beep Montilla\\Desktop\\Cosas\\GRADO DAW\\Segundo a\u00F1o DAM\\Acceso a datos\\ProyectosTema6\\TiendaAPI\\Data\\TiendaDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\TiendaDbContext.cs",
+              "ToolTip": "C:\\Users\\Beep Montilla\\Desktop\\Cosas\\GRADO DAW\\Segundo a\u00F1o DAM\\Acceso a datos\\ProyectosTema6\\TiendaAPI\\Data\\TiendaDbContext.cs",
+              "RelativeToolTip": "Data\\TiendaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:32:54.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Beep Montilla\\Desktop\\Cosas\\GRADO DAW\\Segundo a\u00F1o DAM\\Acceso a datos\\ProyectosTema6\\TiendaAPI\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Beep Montilla\\Desktop\\Cosas\\GRADO DAW\\Segundo a\u00F1o DAM\\Acceso a datos\\ProyectosTema6\\TiendaAPI\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:29:49.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Beep Montilla\\Desktop\\Cosas\\GRADO DAW\\Segundo a\u00F1o DAM\\Acceso a datos\\ProyectosTema6\\TiendaAPI\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Beep Montilla\\Desktop\\Cosas\\GRADO DAW\\Segundo a\u00F1o DAM\\Acceso a datos\\ProyectosTema6\\TiendaAPI\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:27:38.906Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1170,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

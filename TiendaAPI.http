@@ -1,0 +1,6 @@
+@TiendaAPI_HostAddress = http://192.168.1.34:7013
+
+GET {{TiendaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

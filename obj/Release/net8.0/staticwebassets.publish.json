@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "DAFV31WRo10gSZ8k15JvsF2fb+I3MGx02FCXShqXm0c=",
+  "Source": "TiendaAPI",
+  "BasePath": "_content/TiendaAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
